@@ -1,2 +1,2 @@
 # learning-django
-Test repository
+Testing repository
